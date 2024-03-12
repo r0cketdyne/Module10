@@ -12,3 +12,5 @@ str_rev = (str_back[::-1])
 for char in str_rev:
     print(char, end = ',')
 #lmao I actually coded this from scratch. seems to work
+
+#CAN ENUMERATE BE USED TO PRINT KEY VALUE PAIRS????? YEEEET

@@ -20,3 +20,5 @@ for index, nextletter in enumerate(str_rev):
 
 
 #FIND USEFUL FEATURES FOR STRING WORK IN PYTHON. TO DO
+
+#MASTER STRING FUNCTIONS. THIS IS THE WAY

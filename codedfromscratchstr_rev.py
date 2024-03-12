@@ -10,8 +10,9 @@ str_back = "Reverse the string"
 str_rev = (str_back[::-1])
 
 for index, nextletter in enumerate(str_rev): 
-    if nextletter in 'aeiou' :
+    if nextletter.lower() in 'aeiou' :
         #print only vowels
+        #added lowercase method here/ python has a TON of string method and manipulation stuff
         print(index, nextletter)
 #lmao I actually coded this from scratch. seems to work
 

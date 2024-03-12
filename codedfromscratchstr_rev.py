@@ -10,7 +10,9 @@ str_back = "Reverse the string"
 str_rev = (str_back[::-1])
 
 for index, nextletter in enumerate(str_rev): 
-    print(index, nextletter)
+    if nextletter in 'aeiou' :
+        #print only vowels
+        print(index, nextletter)
 #lmao I actually coded this from scratch. seems to work
 
 #CAN ENUMERATE BE USED TO PRINT KEY VALUE PAIRS????? YEEEET

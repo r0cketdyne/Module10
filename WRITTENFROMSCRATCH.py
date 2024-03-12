@@ -4,6 +4,12 @@
 Created on Mon Mar 11 23:23:30 2024
 
 @author: stephenson
+#perhaps I need to use more loops and less methos
+#I am redoing everything
+#to prep for the exam
+#it's all at a local desktop
+#I'll push it up in a couple days
+#my general prep
 """
 
 fuck = input("fuck put in any var. writing this dumbass program again")

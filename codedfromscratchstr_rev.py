@@ -17,3 +17,6 @@ for index, nextletter in enumerate(str_rev):
 #lmao I actually coded this from scratch. seems to work
 
 #CAN ENUMERATE BE USED TO PRINT KEY VALUE PAIRS????? YEEEET
+
+
+#FIND USEFUL FEATURES FOR STRING WORK IN PYTHON. TO DO

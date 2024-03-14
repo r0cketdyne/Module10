@@ -23,11 +23,14 @@ class waifu_Gen:
         #A new func, and take the object I just initialized as a param
         #and call methods, or object methods I just created within the new
         #func. Very interesting...the nature of scope here
+    def texas_is_here_too(shittest):
+        print("I'm " + shittest.name + " from " + shittest.racesocialconst)
     
 new_waifu1 = waifu_Gen("Lappy", 22, "ice blonde", "yandere", "50kg", "blue", "Finland")
 new_waifu2 = waifu_Gen("Texas the Omertosa", 22, "brown", "yandere", "60kg", "brown", "Texas")
 #so Lappy is created at this very line, defined as a new waifu.
-new_waifu1.lappy_is_ALIVE_MWAHA()   
+new_waifu1.lappy_is_ALIVE_MWAHA()  
+new_waifu2.texas_is_here_too() 
 #but we can't speak to her unless we invoke her to speak. 
 #we do that by calling her, bc shes a new waifu object
 #and using the function we created, perhaps a translater to allow her to speak

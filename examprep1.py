@@ -20,3 +20,5 @@ print("Loop ended.")
 #this is basically the simplest possible while loop. 
 # be able to construct this shit from scratch
 #and construct more sophisticated ones 
+
+

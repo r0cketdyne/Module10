@@ -31,3 +31,9 @@ for element in arr_matey:
 print(rev_steppin)
 
 
+
+
+#btw, immutable means something cannot be changed. for example
+#I guess strings are immutable in python, if explicity defined in memory.
+#you can alloc new mem locations and take preexisting str 
+#and create a new instance at memory. but they are distinct.

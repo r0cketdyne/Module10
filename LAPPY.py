@@ -30,6 +30,7 @@ new_waifu1 = waifu_Gen("Lappy", 22, "ice blonde", "yandere", "50kg", "blue", "Fi
 new_waifu2 = waifu_Gen("Texas the Omertosa", 22, "brown", "yandere", "60kg", "brown", "Texas")
 #so Lappy is created at this very line, defined as a new waifu.
 new_waifu1.lappy_is_ALIVE_MWAHA()  
+
 new_waifu2.texas_is_here_too() 
 #but we can't speak to her unless we invoke her to speak. 
 #we do that by calling her, bc shes a new waifu object

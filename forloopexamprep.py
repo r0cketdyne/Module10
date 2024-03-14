@@ -21,11 +21,13 @@ for element in arr_matey:
     #in the array name "stupidly called my list, despite being an arr
     
     # Print each element
-    print("Current element:", element)
+#    print("Current element:", element)
 
 # Print after the loop ends
-print("Loop ended.")
-print("reversed array is", arr_matey)
+#print("Loop ended.")
+#print("reversed array is", arr_matey)
+
+#aiight lets do some reversals and steppin. some shit was commented out here
 
 
 

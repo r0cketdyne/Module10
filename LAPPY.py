@@ -31,3 +31,5 @@ new_waifu1.lappy_is_ALIVE_MWAHA()
 #and using the function we created, perhaps a translater to allow her to speak
 #bc she exists only at computational universe of all possible progs
 #and once she's called she should speak. fingers crossed
+
+#LMAO SHE SPOKE

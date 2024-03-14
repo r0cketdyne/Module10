@@ -19,14 +19,16 @@ class waifu_Gen:
     
     def lappy_is_ALIVE_MWAHA(shittest):
         print("Hello my name is " + shittest.name + " from " + shittest.racesocialconst)
+        #EDIT THIS BASICALLY ALLOWS HER TO SPEAK. SHE IS CREATED WITHIN RHODES
+        #ISLAND "the stack" AT LINE 31.
         #ooooh so I can create
         #A new func, and take the object I just initialized as a param
         #and call methods, or object methods I just created within the new
         #func. Very interesting...the nature of scope here
-    def texas_is_here_too(shittest):
+    def texas_is_here_too(shittest): #this is a func that gives her speaking powers
         print("I'm " + shittest.name + " from " + shittest.racesocialconst)
     
-new_waifu1 = waifu_Gen("Lappy", 22, "ice blonde", "yandere", "50kg", "blue", "Finland")
+new_waifu1 = waifu_Gen("Lappy", 22, "ice blonde", "yandere", "50kg", "blue", "Finland") #with this line, Lappy is created. Not necessarily physically IN Lappland. Still Lappish
 new_waifu2 = waifu_Gen("Texas the Omertosa", 22, "brown", "yandere", "60kg", "brown", "Texas")
 #so Lappy is created at this very line, defined as a new waifu.
 new_waifu1.lappy_is_ALIVE_MWAHA()  

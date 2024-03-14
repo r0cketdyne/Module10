@@ -15,6 +15,8 @@ arr_matey = [1, 2, 3, 4, 5] #list is initialized, which isn't really a list
 
 # Loop over each element in the sequence
 for element in arr_matey:
+    arr_matey.reverse()
+    
     #so, the general syntax for looping over shit is for, array element, 
     #in the array name "stupidly called my list, despite being an arr
     
@@ -23,7 +25,7 @@ for element in arr_matey:
 
 # Print after the loop ends
 print("Loop ended.")
-
+print("reversed array is", arr_matey)
 
 
 

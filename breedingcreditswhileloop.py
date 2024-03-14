@@ -12,9 +12,10 @@ Created on Thu Mar 14 15:18:04 2024
 count = 0 
 
 while count < 69 :
-    print("you've added another breeding credit to the wallet.")
-    print(count)
+    print("you've added another breeding credit to the wallet.", (count)) 
     count+=1
 
           
-#basically app "money" is. trivial isn't it. 
+#basically all "money" is. trivial isn't it. 
+#need to create more sophisticated while loops here. will do another form
+#scratch just for the hell of it.

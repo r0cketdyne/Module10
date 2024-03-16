@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Mar 14 13:43:55 2024
-
+#ouuuuuuuuu ballmer curve ftw
 @author: stephenson
 """
 

@@ -1,11 +1,10 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 30 13:53:25 2024
-
-@author: stephenson
-"""
-
+#Lab9
+#Matthew Stephenson
+#This prog takes a .txt as an input by reading at r, reads each line and 
+#logs to standard i/o, closes file and terminates prog.
+#added implementation to readd each line in order to count 
+#the number of lines that contain a numeric val
+############################################################################
 # Initialize a variable to count the lines containing numbers
 numeric_lines_count = 0
 #init var, numeric_lines_count to count lines with nums, lines 3 4 and 5
